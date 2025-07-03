@@ -28,8 +28,8 @@ The primary data source used here is Plamora Group emp-data.csv, which is open d
 
 - Power Bi Transform Data Queries (for data Cleaning )
 -  Power Bi Data Preview Column quality, column distribution ( For Data integrity and distinct value)
--  Dax Functions ( for New measures )
-- Power BI (for Data Visualization)
+-  Dax Functions ( for New Measures)
+- Power BI (for Data Visualisation)
 ### Data Cleaning and Preparation
 
 In the initial phase of the Data Cleaning and preparation, the following actions were performed:
