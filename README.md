@@ -18,7 +18,7 @@
 
 ### Project Overview
 ---
-This data analysis aims to generate insights into key areas within the business that could give rise to issues, such as the gender pay gap, among other potential issues and provide recommendations for management’s attention to future gender equality within the organisation. By analysing the various parameters in the data received, we seek to gather enough insight to make reasonable decisions and determine the data's best performance. 
+This data analysis aims to generate insights into key areas within the organisation's product category and sales analysis within the company's 3 regions. Accurate information about the most valuable customers and the products or services purchased. By analysing the various parameters in the data received, we seek to gather enough insight to make reasonable decisions and determine the data's best performance. 
 
 ### Data Sources
 ---
