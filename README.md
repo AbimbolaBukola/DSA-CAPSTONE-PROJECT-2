@@ -22,14 +22,13 @@ This data analysis aims to generate insights into key areas within the organisat
 
 ### Data Sources
 ---
-The primary data source used here is Plamora Group emp-data.csv, which is open data that can be freely downloaded from an open-source online or any other data repository site.
+The primary data sources used here are KMS Sql Case Study.csv and Order_Status.csv, which are open datasets that can be freely downloaded from an open-source online or any other data repository site.
 
 ### Tools Used
 
-- Power Bi Transform Data Queries (for data Cleaning )
--  Power Bi Data Preview Column quality, column distribution ( For Data integrity and distinct value)
--  Dax Functions ( for New Measures)
-- Power BI (for Data Visualisation)
+- STRUCTURED QUERY LANGUAGE(SQL) Queries (for data Cleaning )
+-  Use of JOIN Function  ( For Data integrity and distinct value)
+
 ### Data Cleaning and Preparation
 
 In the initial phase of the Data Cleaning and preparation, the following actions were performed:
@@ -57,3 +56,17 @@ purchase?
 Express Air is the fastest but the most expensive one, do you think the company 
 appropriately spent shipping costs based on the Order Priority?
 ### Data Analysis
+--PRODUCT CATEGORY WITH HIGHEST SALES--
+SELECT TOP 1
+     [Product Category],
+    SUM(sales) AS total_sales
+FROM [dbo].['KMS Sql Case Study$']
+    
+GROUP BY 
+     [Product Category]
+ORDER BY 
+    total_sales DESC,
+    --RESULT--
+    
+
+
