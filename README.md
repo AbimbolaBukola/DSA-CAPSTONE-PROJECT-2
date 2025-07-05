@@ -67,12 +67,48 @@ appropriately spent shipping costs based on the Order Priority?
 2. THE TOP 3 AND BOTTOM 3 REGIONS IN TERMS OF SALES
 ![Screenshot (38)](https://github.com/user-attachments/assets/3bd54c2f-cd67-42ea-aff1-7e1132a4b8b5)
 
-INSIGHT: In the data given, region West, Ontairo and Prarie are the top 3 regions with total sales of	3597549.2755,3063212.795,2837304.6015 respectively.
+INSIGHT: In the data analysed region West, Ontairo and Prarie are the top 3 regions with total sales of	3597549.2755, 3063212.795, 2837304.6015 respectively.
 
 3. TOTAL SALES OF APPLIANCES IN ONTARIO
 
    ![TOTAL SALES ONTARIO](https://github.com/user-attachments/assets/0683bed0-4b3d-4b73-ab8c-f307b87ac4aa)
    
    INSIGHT: The total appliances sales in Ontario 202346.84
+
+4. BOTTOM TEN CUSTOMERS
+      ![Screenshot (42)](https://github.com/user-attachments/assets/4d4a453e-4ea2-4559-afe3-644261addcdb)
+
+5. MOST SHIPPING METHOD WITH THE MOST COST
+
+![Screenshot (43)](https://github.com/user-attachments/assets/75e02e32-9fb2-4857-944e-548073149f97)
+
+6a. MOST VALUABLE CUSTOMERS
+![Screenshot (44)](https://github.com/user-attachments/assets/50c34679-de01-45a1-8dc3-6d6c8b0b3be6)
+
+6b. PRODUCT OR SERVICES PURCHASED BY TOP 5 MOST VALUABLE CUSTOMERS
+
+![Screenshot (46)](https://github.com/user-attachments/assets/b00df883-e9af-4570-b02d-ad97e47acc82)
+
+7. SMALL BUSINESS CUSTOMER WITH HIGHEST SALES
+
+   ![Screenshot (47)](https://github.com/user-attachments/assets/cbf8ae98-62e4-4d6f-b424-beea37c5f5f5)
+
+8. CORPORATE CUSTOMER WITH THE MOST ORDERS IN 2009-2012
+   ![Screenshot (47)](https://github.com/user-attachments/assets/898896a3-9087-49dd-b506-1e3b3804b786)
+   
+9. THE MOST PROFITABLE CONSUMER CUSTOMER
+
+![Screenshot (48)](https://github.com/user-attachments/assets/249131e2-837f-4b01-9acd-b3e19dbe48e5)
+
+10. CUSTOMERS WHO RETURNED AND THEIR SEGMENT
+    ![image](https://github.com/user-attachments/assets/6b0d9d44-8af1-4bc5-a4e5-3fef9997df30)
+
+11. ORDER PRIORITY
+    ![Screenshot (50)](https://github.com/user-attachments/assets/c5a0d608-831b-463e-82b5-8f83b63a5129)
+
+
+
+
+
 
 
