@@ -78,7 +78,7 @@ INSIGHT: In the data analysed region West, Ontairo and Prarie are the top 3 regi
 4. BOTTOM TEN CUSTOMERS
       ![Screenshot (42)](https://github.com/user-attachments/assets/4d4a453e-4ea2-4559-afe3-644261addcdb)
 
-5. MOST SHIPPING METHOD WITH THE MOST COST
+5. MOST SHIPPING METHOD WITH THE HIGHEST COST
 
 ![Screenshot (43)](https://github.com/user-attachments/assets/75e02e32-9fb2-4857-944e-548073149f97)
 
@@ -101,10 +101,12 @@ INSIGHT: In the data analysed region West, Ontairo and Prarie are the top 3 regi
 ![Screenshot (48)](https://github.com/user-attachments/assets/249131e2-837f-4b01-9acd-b3e19dbe48e5)
 
 10. CUSTOMERS WHO RETURNED AND THEIR SEGMENT
-    ![image](https://github.com/user-attachments/assets/6b0d9d44-8af1-4bc5-a4e5-3fef9997df30)
+    ![Screenshot (49)](https://github.com/user-attachments/assets/c27a869e-66dc-49bc-a727-1b806310ca72)
+
 
 11. ORDER PRIORITY
-    ![Screenshot (50)](https://github.com/user-attachments/assets/c5a0d608-831b-463e-82b5-8f83b63a5129)
+    ![Screenshot (50)](https://github.com/user-attachments/assets/12dc4b8c-19ac-46c1-899d-0a0d82f60fce)
+
 
 
 
