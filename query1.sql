@@ -1,6 +1,5 @@
-DSA-CAPSTONE PROJECT 2
-----PRODUCT CATEGORY WITH HIGHEST SALES---
-
+sql
+     
 SELECT TOP 1
      [Product Category],
     SUM(sales) AS total_sales
