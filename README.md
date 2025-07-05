@@ -57,17 +57,11 @@ Express Air is the fastest but the most expensive one, do you think the company
 appropriately spent shipping costs based on the Order Priority?
 
 ### Data Analysis
-----PRODUCT CATEGORY WITH HIGHEST SALES---
-
-SELECT TOP 1
-     [Product Category],
-    SUM(sales) AS total_sales
-FROM [dbo].['KMS Sql Case Study$']
-    
-GROUP BY 
-     [Product Category]
-ORDER BY 
-    total_sales DESC;
-    
+   ---
+  - PRODUCT CATEGORY WITH HIGHEST SALES
+   
+![Screenshot (37)](https://github.com/user-attachments/assets/99bd7b89-6ec7-4abf-b929-1e0c6c005146)
+   
+   INSIGHT: The result shows that Technology is the product category that recorded the highest sales.
 
 
