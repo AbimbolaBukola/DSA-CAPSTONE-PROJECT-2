@@ -64,9 +64,15 @@ appropriately spent shipping costs based on the Order Priority?
    
    INSIGHT: The result shows that Technology is the product category that recorded the highest sales.
    
-2.THE TOP 3 AND BOTTOM 3 REGIONS IN TERMS OF SALES
+2. THE TOP 3 AND BOTTOM 3 REGIONS IN TERMS OF SALES
 ![Screenshot (38)](https://github.com/user-attachments/assets/3bd54c2f-cd67-42ea-aff1-7e1132a4b8b5)
 
 INSIGHT: In the data given, region West, Ontairo and Prarie are the top 3 regions with total sales of	3597549.2755,3063212.795,2837304.6015 respectively.
+
+3. TOTAL SALES OF APPLIANCES IN ONTARIO
+
+   ![TOTAL SALES ONTARIO](https://github.com/user-attachments/assets/0683bed0-4b3d-4b73-ab8c-f307b87ac4aa)
+   
+   INSIGHT: The total appliances sales in Ontario 202346.84
 
 
