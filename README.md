@@ -58,10 +58,15 @@ appropriately spent shipping costs based on the Order Priority?
 
 ### Data Analysis
    ---
-  - PRODUCT CATEGORY WITH HIGHEST SALES
+  1. PRODUCT CATEGORY WITH HIGHEST SALES
    
 ![Screenshot (37)](https://github.com/user-attachments/assets/99bd7b89-6ec7-4abf-b929-1e0c6c005146)
    
    INSIGHT: The result shows that Technology is the product category that recorded the highest sales.
+   
+2.THE TOP 3 AND BOTTOM 3 REGIONS IN TERMS OF SALES
+![Screenshot (38)](https://github.com/user-attachments/assets/3bd54c2f-cd67-42ea-aff1-7e1132a4b8b5)
+
+INSIGHT: In the data given, region West, Ontairo and Prarie are the top 3 regions with total sales of	3597549.2755,3063212.795,2837304.6015 respectively.
 
 
