@@ -56,7 +56,8 @@ purchase?
 Express Air is the fastest but the most expensive one, do you think the company 
 appropriately spent shipping costs based on the Order Priority?
 ### Data Analysis
---PRODUCT CATEGORY WITH HIGHEST SALES--
+----PRODUCT CATEGORY WITH HIGHEST SALES---
+
 SELECT TOP 1
      [Product Category],
     SUM(sales) AS total_sales
@@ -65,8 +66,7 @@ FROM [dbo].['KMS Sql Case Study$']
 GROUP BY 
      [Product Category]
 ORDER BY 
-    total_sales DESC,
-    --RESULT--
+    total_sales DESC;
     
 
 
